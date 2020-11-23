@@ -18,7 +18,6 @@ if (len(sys.argv) < 3):
     print("something is missing : \n\t python LSB.py <in.png> <out.png>")
     exit(1)
 ########################
-#Imaginez que ces variables sont des #dfine parce-que C++ est mieu mais complexe
 define_fichier = sys.argv[1]
 define_output = sys.argv[2]
 ########################
