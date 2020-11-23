@@ -7,7 +7,7 @@ This script can decode image in image with LSB method. (require Python 3.8 minim
 
 #### Install this Folder :
 
-Download this folder from this page.
+[Download this folder from this page.](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GaumKap/gkc_RandomScript/tree/main/LSB)(DownGit)
 
 **On Linux :**
 ~~~
